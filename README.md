@@ -59,11 +59,14 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/saurabhkumarr99/Blogging-Platform/raw/master/ScreenShots/1.Home%20Page.png" alt="Screenshot 1" width="300" />
-  <img src="https://github.com/saurabhkumarr99/Blogging-Platform/raw/master/ScreenShots/2.Create%20Blog.png" alt="Screenshot 2" width="300" />
-  <img src="https://github.com/saurabhkumarr99/Blogging-Platform/raw/master/ScreenShots/3.BlogDetailsWithoutComments.png" alt="Screenshot 3" width="300" />
-  <img src="https://github.com/saurabhkumarr99/Blogging-Platform/raw/master/ScreenShots/4.b-Comments.png" alt="Screenshot 1" width="300" />
-  <img src="https://github.com/saurabhkumarr99/Blogging-Platform/raw/master/ScreenShots/4.BlogDetailsWithComments.png" alt="Screenshot 2" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Note-Taking-App/raw/master/ScreenShots/1-Home.png" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Note-Taking-App/raw/master/ScreenShots/2-All%20Notes.png" alt="Screenshot 2" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Note-Taking-App/raw/master/ScreenShots/3-%20Add%20New%20Note.png" alt="Screenshot 3" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Note-Taking-App/raw/master/ScreenShots/4-New%20Note%20Surfaced.png" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Note-Taking-App/raw/master/ScreenShots/5-Edit%20Note.png" alt="Screenshot 2" width="300" />
+   <img src="https://github.com/saurabhkumarr99/Note-Taking-App/raw/master/ScreenShots/6.1-Live%20Search.png" alt="Screenshot 3" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Note-Taking-App/raw/master/ScreenShots/6.2-Live%20Search.png" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/saurabhkumarr99/Note-Taking-App/raw/master/ScreenShots/6.3-Live%20Serach.png" alt="Screenshot 2" width="300" />
 </p
 
 
